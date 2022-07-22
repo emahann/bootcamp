@@ -15,3 +15,7 @@ Mickey Shea: A family friend who worked with Eddie's father fixing rides at Ruby
 Tala: Tala is a young Filipina girl Eddie sees in a burning hut.
 
 Nicky: Nicky is a young man who visited Ruby Pier, and caused the effects that led to Eddie's death. He claims to be Ruby's great-grandson.
+
+Hello, I am rebase file.
+
+Hi, Iam Emma.
